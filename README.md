@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulhamid Mussa</h1>
-<h3 align="center">A passionate FullStack developer from Ethiopia</h3>
+<h3 align="center">A passionate FullStack developer</h3>
 
 - 🔭 I’m currently working on **creating a digital menu.**
 
