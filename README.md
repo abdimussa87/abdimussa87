@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **creating a digital menu.**
 
-- 🌱 I’m currently learning about **web3, specifically about the Ethereum blockchain.**
-
-- 👯 I’m looking to collaborate on **a web3 project.**
+- 👯 I’m looking to collaborate on **a Flutter project.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdimussa87](https://github.com/abdimussa87)
 
