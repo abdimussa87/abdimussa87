@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdulhamid Mussa</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
-- 🔭 I’m currently working on **a project that targets hotels.**
+- 🔭 I’m currently working on **a Generative AI project.**
 
-- 👯 I’m looking to collaborate on **a Flutter project.**
+- 👯 I’m looking to collaborate on **a Generative AI project.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdimussa87](https://github.com/abdimussa87)
 
-- 💬 Ask me about **anything related with Flutter and Nodejs.**
+- 💬 Ask me about **anything related with Large Language Models.**
 
 - 📫 How to reach me **abdimussa87@gmail.com**
 
