@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdimussa87](https://github.com/abdimussa87)
 
+- 📝 I regularly write articles on [medium](https://medium.com/@abdimussa87/)
+
 - 💬 Ask me about **anything related with Large Language Models.**
 
 - 📫 How to reach me **abdimussa87@gmail.com**
